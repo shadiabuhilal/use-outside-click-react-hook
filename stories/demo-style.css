@@ -1,0 +1,19 @@
+.page-content { 
+    width: 400px;
+    height: 400px;
+    background-color: #ccc;
+}
+
+.menu-popup {
+    position: absolute;
+    background-color: cornsilk;
+    border: 1px solid black;
+    border-radius: 4px;
+}
+
+.menu-popup ul,
+.menu-popup ul li{
+    padding: 4px;
+    margin: 0;
+    list-style: none;
+}

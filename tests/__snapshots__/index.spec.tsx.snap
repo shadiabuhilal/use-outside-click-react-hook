@@ -1,0 +1,145 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`useOutsideClick hook Should close menu of TestComponent when mouseDown event outside menu popup container: after click on Menu button 1`] = `
+<DocumentFragment>
+  <div
+    class="page-content"
+  >
+    <button
+      data-testid="btnMenu"
+    >
+      Menu
+    </button>
+    <div
+      class="menu-popup"
+    >
+      <ul>
+        <li>
+          Item 1
+        </li>
+        <li>
+          Item 2
+        </li>
+        <li>
+          Item 3
+        </li>
+      </ul>
+    </div>
+    <button
+      data-testid="btnSave"
+    >
+      Save
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`useOutsideClick hook Should close menu of TestComponent when mouseDown event outside menu popup container: after click outside menu popup container 1`] = `
+<DocumentFragment>
+  <div
+    class="page-content"
+  >
+    <button
+      data-testid="btnMenu"
+    >
+      Menu
+    </button>
+    <button
+      data-testid="btnSave"
+    >
+      Save
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`useOutsideClick hook Should close menu of TestComponent when mouseDown event outside menu popup container: before click on Menu button 1`] = `
+<DocumentFragment>
+  <div
+    class="page-content"
+  >
+    <button
+      data-testid="btnMenu"
+    >
+      Menu
+    </button>
+    <button
+      data-testid="btnSave"
+    >
+      Save
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`useOutsideClick hook Should close menu of TestComponent when touchStart event outside menu popup container: after click on Menu button 1`] = `
+<DocumentFragment>
+  <div
+    class="page-content"
+  >
+    <button
+      data-testid="btnMenu"
+    >
+      Menu
+    </button>
+    <div
+      class="menu-popup"
+    >
+      <ul>
+        <li>
+          Item 1
+        </li>
+        <li>
+          Item 2
+        </li>
+        <li>
+          Item 3
+        </li>
+      </ul>
+    </div>
+    <button
+      data-testid="btnSave"
+    >
+      Save
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`useOutsideClick hook Should close menu of TestComponent when touchStart event outside menu popup container: after click outside menu popup container 1`] = `
+<DocumentFragment>
+  <div
+    class="page-content"
+  >
+    <button
+      data-testid="btnMenu"
+    >
+      Menu
+    </button>
+    <button
+      data-testid="btnSave"
+    >
+      Save
+    </button>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`useOutsideClick hook Should close menu of TestComponent when touchStart event outside menu popup container: before click on Menu button 1`] = `
+<DocumentFragment>
+  <div
+    class="page-content"
+  >
+    <button
+      data-testid="btnMenu"
+    >
+      Menu
+    </button>
+    <button
+      data-testid="btnSave"
+    >
+      Save
+    </button>
+  </div>
+</DocumentFragment>
+`;

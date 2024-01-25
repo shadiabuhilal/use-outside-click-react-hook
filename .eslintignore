@@ -1,0 +1,7 @@
+node_modules
+dist
+coverage
+docs
+.editorconfig
+.DS_Store
+.gitignore

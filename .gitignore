@@ -1,3 +1,7 @@
+use-outside-click-react-hook-*.tgz
+storybook-static
+.DS_Store
+
 # Logs
 logs
 *.log

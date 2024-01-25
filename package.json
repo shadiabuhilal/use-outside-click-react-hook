@@ -6,10 +6,10 @@
   "main": "./src/index.tsx",
   "types": "./dist/esm/index.d.ts",
   "exports": {
-    "." :{
-        "import": "./dist/esm/index.js",
-        "require": "./dist/cjs/index.cjs",
-        "types": "./dist/esm/index.d.ts"
+    ".": {
+      "import": "./dist/esm/index.js",
+      "require": "./dist/cjs/index.cjs",
+      "types": "./dist/esm/index.d.ts"
     }
   },
   "scripts": {
